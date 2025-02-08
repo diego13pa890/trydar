@@ -1,4 +1,3 @@
-# trydar
 <!DOCTYPE html>
 <html lang="es">
 <head>
